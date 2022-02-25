@@ -3,6 +3,8 @@
 Einstein Yap here, this is a crypto exchange Vue 3 template that I bought from themeforest. Initially unable to install.
 after some fixed it can run for a sample test. 
 
+can watch the youtube explaination before install 
+https://www.youtube.com/watch?v=ir1r3Aeuo28
 
 
 ## Project setup
