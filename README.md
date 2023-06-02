@@ -1,6 +1,6 @@
-# VUE3 crypto exchange --> not my creation. 
+# VUE3 crypto exchange  
 
-Einstein Yap here, this is a crypto exchange Vue 3 template that I bought from themeforest. Initially unable to install.
+Einstein Yap here, this is a crypto exchange Vue 3 template , Initially unable to install.
 after some fixed it can run for a sample test. 
 
 can watch the youtube explaination before install 
